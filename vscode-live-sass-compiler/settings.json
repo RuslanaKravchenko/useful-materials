@@ -7,8 +7,8 @@
       "savePath": "/css"
     },
     {
-      "extensionName": ".min.css",
       "format": "compressed",
+      "extensionName": ".min.css",
       "savePath": "/css"
     }
   ],
@@ -17,5 +17,6 @@
     ".vscode/**"
   ],
   "liveSassCompile.settings.generateMap": true,
+  "liveServer.settings.port": 1235,
   "liveSassCompile.settings.autoprefix": null
 }
