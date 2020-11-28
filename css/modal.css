@@ -1,3 +1,4 @@
+/*  =================== Модальное окно ================= */
 body.show-modal .backdrop {
   opacity: 1;
   visibility: visible;

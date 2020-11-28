@@ -16,15 +16,15 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.0.0/modern-normalize.min.css"
     />
 
-    <link rel="stylesheet" href="./css/styles.css" />
+    <!-- <link rel="stylesheet" href="./css/modal.css" /> -->
+    <link rel="stylesheet" href="./css/nav.css"
   </head>
   <body>
-    <p><a href="/">На главную</a></p>
+    <!-- =========================== Модальное окно =============================  -->
+    <!--  <p><a href="/">На главную</a></p>
 
     <button class="button" data-action="open-modal">Открыть модалку</button>
-
-    <!-- =========================== Модальное окно =============================  -->
-    <div class="backdrop js-backdrop">
+     <div class="backdrop js-backdrop">
       <div class="modal">
         <h2>Modal window</h2>
         <p>
@@ -41,8 +41,22 @@
           Закрыть
         </button>
       </div>
-    </div>
+    </div> -->
+    <!-- Подсветка активного элемента навигации при клике  -->
+
+    <ul class="nav js-nav">
+      <li><a href="#" class="btn">HTML</a></li>
+      <li><a href="#" class="btn">CSS</a></li>
+      <li><a href="#" class="btn">JavaScript</a></li>
+      <li><a href="#" class="btn">NPM</a></li>
+      <li><a href="#" class="btn">Babel</a></li>
+      <li><a href="#" class="btn">Webpack</a></li>
+      <li><a href="#" class="btn">React</a></li>
+      <li><a href="#" class="btn">Redux</a></li>
+      <li><a href="#" class="btn">NodeJS</a></li>
+    </ul>
 
     <script type="module" src="./js/modal.js"></script>
+    <script type="module" src="./js/nav.js"></script>
   </body>
 </html>
