@@ -4,7 +4,7 @@ nav.addEventListener("click", handleNavClick);
 
 function handleNavClick(event) {
   event.preventDefault();
-  
+
   const target = event.target;
   console.log("event target: ", target); // посмотрите что тут
 
