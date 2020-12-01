@@ -1,0 +1,43 @@
+body {
+  padding: 30px;
+  background-color: #212121;
+
+  color: #b1a5a5;
+
+  font-family: Roboto, sans-serif;
+  letter-spacing: 0.03em;
+  font-size: 20px;
+  line-height: 1.71;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.main-nav {
+  color: #b1a5a5;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 50px;
+
+  color: #fff;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.18;
+  text-align: center;
+}
