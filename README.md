@@ -17,4 +17,8 @@
 15. Плагин для видео: https://github.com/videojs/video.js
 16. Плагин для видео: https://github.com/sampotts/plyr
 17. Создание графиков: https://www.chartjs.org/
-18. Поиск плагинов: https://plainjs.com/
+18. Библиотека работы с временем: https://momentjs.com/
+19. Библиотека работы с временем: https://github.com/iamkun/dayjs
+20. Библиотека работы с временем: https://date-fns.org/
+
+    Поиск плагинов: https://plainjs.com/
