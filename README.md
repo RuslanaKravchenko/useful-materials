@@ -20,5 +20,6 @@
 18. Библиотека работы с временем: https://momentjs.com/
 19. Библиотека работы с временем: https://github.com/iamkun/dayjs
 20. Библиотека работы с временем: https://date-fns.org/
+21. Библиотека для работы с базами данных: https://www.npmjs.com/package/axios
 
     Поиск плагинов: https://plainjs.com/
