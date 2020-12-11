@@ -21,5 +21,8 @@
 19. Библиотека работы с временем: https://github.com/iamkun/dayjs
 20. Библиотека работы с временем: https://date-fns.org/
 21. Библиотека для работы с базами данных: https://www.npmjs.com/package/axios
+22. Бесконечный скролл: https://infinite-scroll.com/
+23. Спинер: https://spin.js.org/
+24. https://getbootstrap.com/
 
     Поиск плагинов: https://plainjs.com/
